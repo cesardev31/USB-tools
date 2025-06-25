@@ -1,0 +1,32 @@
+# Archivos binarios
+usbtool
+*.exe
+*.out
+main
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Directorios temporales
+tmp/
+temp/
+
+# Archivos de compilación
+*.log
+*.aux
+*.toc
+
+# Archivos generados por el editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de test o caché de Go
+*.test
+*.prof
+*.coverprofile
+
+# Carpetas de caché
+vendor/
