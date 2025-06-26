@@ -1,6 +1,5 @@
 # Archivos binarios
 usbtool
-*.exe
 *.out
 
 # Archivos del sistema
