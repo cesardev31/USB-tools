@@ -2,7 +2,6 @@
 usbtool
 *.exe
 *.out
-main
 
 # Archivos del sistema
 .DS_Store
